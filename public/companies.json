@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova Solutions",
+    "location": "Bangalore",
+    "industry": "IT Services",
+    "description": "TechNova helps businesses build modern web and mobile products."
+  },
+  {
+    "id": 2,
+    "name": "GreenLeaf Foods",
+    "location": "Mumbai",
+    "industry": "Food & Beverages",
+    "description": "A plant-based food company focused on healthy alternatives."
+  },
+  {
+    "id": 3,
+    "name": "FinEdge Analytics",
+    "location": "Hyderabad",
+    "industry": "FinTech",
+    "description": "Provides analytics dashboards for financial institutions."
+  },
+  {
+    "id": 4,
+    "name": "EduSpark Learning",
+    "location": "Delhi",
+    "industry": "EdTech",
+    "description": "Builds digital learning platforms for schools and colleges."
+  },
+  {
+    "id": 5,
+    "name": "UrbanNest Realty",
+    "location": "Bangalore",
+    "industry": "Real Estate",
+    "description": "A tech-enabled property discovery and management company."
+  },
+  {
+    "id": 6,
+    "name": "PixelCraft Digital",
+    "location": "Chennai",
+    "industry": "Digital Agency",
+    "description": "Offers web design, branding, and digital marketing services."
+  }
+]
