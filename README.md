@@ -1,16 +1,58 @@
-# React + Vite
+📘 Companies Directory – Frontend Development Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based frontend application built for the Frontend Developer assignment at Frontlines Media.
+This app displays a list of companies with search and filter functionality, using a mock API.
 
-Currently, two official plugins are available:
+🚀 Live Demo
+🔗 Netlify Deployment:
+https://691f64f1e4b5ef4471a125bb--transcendent-kheer-0618da.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🗂 GitHub Repository
+🔗 https://github.com/Daanu07-tech/companies-directory.git
 
-## React Compiler
+🎥 Video Walkthrough
+🔗 https://screenrec.com/share/eDOlNnRdos
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📌 Features
+1.Fetches company data from a mock API (public/  companies.json)
+2.Displays company list in a clean table layout
+3.Search by name
+4.Filter by location
+5.Filter by industry
+6.Loading state
+7.Error state
+8.Fully responsive layout
+9.Built using React, Vite, and plain CSS
 
-## Expanding the ESLint configuration
+📁 Folder Structure
+src/
+  App.jsx
+  main.jsx
+  index.css
+public/
+  companies.json
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠 Tech Stack
+1.React
+2.Vite
+3.JavaScript (ES6)
+4.CSS
+
+📡 Mock API
+The data is stored in public/companies.json.
+This file is fetched on page load using the native fetch() API.
+
+🧠 How to Run Locally
+npm install
+npm run dev
+App runs on:
+http://localhost:5173/
+
+🧑‍💻 About This Project
+1.This assignment focuses on:
+2.React fundamentals
+3.State management
+4.Data fetching
+5.Filtering logic
+6.Clean UI and UX
+7.Code readability
